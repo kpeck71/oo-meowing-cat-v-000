@@ -10,5 +10,5 @@ end
 
 couscous = Cat.new
 couscous.name = "Couscous"
-
+couscous.name
 couscous.meow

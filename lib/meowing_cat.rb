@@ -8,6 +8,7 @@ class Cat
   end
 end
 
-# couscous = Cat.new
-# couscous.name = "Couscous"
-# couscous.meow
+couscous = Cat.new
+couscous.name = "Couscous"
+
+couscous.meow
